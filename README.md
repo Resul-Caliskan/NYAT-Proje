@@ -1,2 +1,2 @@
 # NYAT-Proje
-B191210002 Resul Çalışkan Ve b191210072 Tarık YeşilYurt tarafından Hazırlanmıştır.
+B191210002 Resul Çalışkan Ve B191210070 Tarık YeşilYurt tarafından Hazırlanmıştır.
